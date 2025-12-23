@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Flamingo",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-23T10:28:57.137000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flamingo",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Flamingo_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flamingo Lawns",
+      "artist": "Whirlwind Heat",
+      "has_synced": false,
+      "path": "select/02_Flamingo_Lawns_Whirlwind_Heat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flamingo [All Nightmare Long]",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/03_Flamingo_[All_Nightmare_Long]_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pretty Flamingo",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/04_Pretty_Flamingo_Iggy_Pop.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty Flamingo",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/05_Pretty_Flamingo_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flamingo",
+      "artist": "Kero Kero Bonito",
+      "has_synced": true,
+      "path": "select/06_Flamingo_Kero_Kero_Bonito.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Flamingo",
+      "artist": "Manfred Mann",
+      "has_synced": true,
+      "path": "select/07_Pretty_Flamingo_Manfred_Mann.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretty Flamingo",
+      "artist": "Manfred Mann",
+      "has_synced": true,
+      "path": "select/08_Pretty_Flamingo_Manfred_Mann.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flamingo",
+      "artist": "Duke Ellington",
+      "has_synced": false,
+      "path": "select/09_Flamingo_Duke_Ellington.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flamingo Pink",
+      "artist": "Aesop Rock feat. Blockhead",
+      "has_synced": true,
+      "path": "select/10_Flamingo_Pink_Aesop_Rock_feat._Blockhead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flamingo Pink",
+      "artist": "Aesop Rock, Blockhead",
+      "has_synced": true,
+      "path": "select/11_Flamingo_Pink_Aesop_Rock,_Blockhead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mack the Knife (Live At the Flamingo)",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/12_Mack_the_Knife_(Live_At_the_Flamingo)_Bobby_Darin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flamingo",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Flamingo_米津玄師.txt"
+    }
+  ]
+}
